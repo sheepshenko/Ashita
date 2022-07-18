@@ -41,7 +41,8 @@ local STORAGES = {
     [10]= { id=9, name='Safe 2' },
     [11]= { id=10, name='Wardrobe 2' },
     [12]= { id=11, name='Wardrobe 3' },
-    [13]= { id=12, name='Wardrobe 4' }
+    [13]= { id=12, name='Wardrobe 4' },
+    [14]= { id=13, name='Wardrobe 5' }
 };
 
 local default_config = 

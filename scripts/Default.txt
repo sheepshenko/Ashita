@@ -19,6 +19,8 @@
 /load Screenshot
 /load Minimap
 #/load StatusTimers
+/load Lootwhore
+/load equipviewer
 
 ##########################################################################
 # Load Common Addons
@@ -34,6 +36,10 @@
 /addon load recast
 /addon load blusets
 /addon load pupatt
+/addon load itemwatch
+/addon load filtterscan
+/addon load autojoin
+/addon load partybuffs
 
 
 ##########################################################################
