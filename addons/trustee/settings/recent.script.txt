@@ -1,0 +1,11 @@
+/refa all
+/wait 4
+/ma "Cornelia" <me>
+/wait 6
+/ma "Joachim" <me>
+/wait 6
+/ma "Arciela II" <me>
+/wait 6
+/ma "Qultada" <me>
+/wait 6
+/ma "Yoran-Oran (UC)" <me>

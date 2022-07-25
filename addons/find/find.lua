@@ -24,7 +24,7 @@
 
 _addon.author   = 'MalRD, zombie343';
 _addon.name     = 'Find';
-_addon.version  = '3.1.0';
+_addon.version  = '3.2.0';
 
 local slips = require('slips');
 
@@ -42,7 +42,10 @@ local STORAGES = {
     [11]= { id=10, name='Wardrobe 2' },
     [12]= { id=11, name='Wardrobe 3' },
     [13]= { id=12, name='Wardrobe 4' },
-    [14]= { id=13, name='Wardrobe 5' }
+    [14]= { id=13, name='Wardrobe 5' },
+    [15]= { id=14, name='Wardrobe 6' },
+    [16]= { id=15, name='Wardrobe 7' },
+    [17]= { id=16, name='Wardrobe 8' }
 };
 
 local default_config = 
