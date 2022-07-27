@@ -40,6 +40,7 @@
 /addon load filtterscan
 /addon load autojoin
 /addon load partybuffs
+/addon load trustee
 
 
 ##########################################################################

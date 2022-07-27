@@ -24,7 +24,7 @@
   <setting name="d3d_presentparams_swapeffect">1</setting>
   <setting name="game_mipmapping">-1</setting>
   <setting name="game_bumpmapping">0</setting>
-  <setting name="game_gammabase">0</setting>
+  <setting name="game_gammabase">0.3</setting>
   <setting name="game_envanimation">-1</setting>
   <setting name="game_texturecompression">-1</setting>
   <setting name="game_mapcompression">-1</setting>
